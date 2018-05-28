@@ -1,4 +1,4 @@
-package com.firstappmobile;
+package com.whatsapp-clone;
 
 import android.app.Application;
 

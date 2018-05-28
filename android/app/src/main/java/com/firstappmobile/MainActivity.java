@@ -1,4 +1,4 @@
-package com.firstappmobile;
+package com.whatsapp-clone;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "FirstAppMobile";
+        return "whatsapp-clone";
     }
 }
